@@ -7,6 +7,7 @@ import java.util.Map.Entry;
 
 public class MapTest{
 	 public static void main(String[] args) {
+		 
 	 Map<String, String> map = new HashMap<String, String>();
 	 map.put("1", "value1");
 	 map.put("2", "value2");
