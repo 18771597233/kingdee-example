@@ -15,6 +15,8 @@ import net.spy.memcached.MemcachedClient;
  *
  */
 public class MemcacheJava {
+	
+	
 	private static MemcachedClient mcc;
 	static {
 		try {
